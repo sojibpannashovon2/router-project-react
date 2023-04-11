@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.my-home {
+    @apply mx-[10%] my-4
+}
+
+
+
+
+.btn {
+    @apply bg-teal-400 p-2 rounded-sm
+}
+
+.badge {
+    @apply bg-teal-200 p-1 w-fit rounded-sm
+}
